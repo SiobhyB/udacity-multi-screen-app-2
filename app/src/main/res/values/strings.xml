@@ -1,0 +1,110 @@
+<!-- Copyright (C) 2016 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources>
+    <!-- Title for the application. [CHAR LIMIT=12] -->
+    <string name="app_name">Cardiff Arcades</string>
+
+    <!-- Category name for Royal Arcade -->
+    <string name="category_royal">Royal Arcade</string>
+
+    <!-- Shop title and description for block one in Royal Arcade -->
+    <string name="royal_one_name">Scribbler</string>
+    <string name="royal_one_description">Retailer selling humorous greeting cards, plus stationery and gift wrap.</string>
+
+    <!-- Shop title and description for block two in the Royal Arcade -->
+    <string name="royal_two_name">The Pen and Paper Stationery Co</string>
+    <string name="royal_two_description">Arcade shop with high-end pens, plus greetings cards and stationery.</string>
+
+    <!-- Shop title and description for block three in Royal Arcade -->
+    <string name="royal_three_name">Cameraland</string>
+    <string name="royal_three_description">Cameras, lenses, photographic gear and supplies.</string>
+
+    <!-- Shop title and description for block four in Royal Arcade -->
+    <string name="royal_four_name">JoJo Maman Bébé</string>
+    <string name="royal_four_description">Upmarket retail chain selling stylish, French-influenced clothes.</string>
+
+    <!-- Shop title and description for block five in Royal Arcade -->
+    <string name="royal_five_name">David Edwards</string>
+    <string name="royal_five_description">Jewellers for upscale diamond jewellery and pre-owned luxury watches.</string>
+
+    <!-- Category name for Morgan Arcade [CHAR LIMIT=20] -->
+    <string name="category_morgan">Morgan Arcade</string>
+
+    <!-- Shop title and description for block one in Morgan Arcade -->
+    <string name="morgan_one_name">Watches Of Wales</string>
+    <string name="morgan_one_description">Second-hand luxury watches and jewellery.</string>
+
+    <!-- Shop title and description for block two in Morgan Arcade -->
+    <string name="morgan_two_name">Pretty Green</string>
+    <string name="morgan_two_description">Men\'s clothing, shoes and accessories.</string>
+
+    <!-- Shop title and description for block three in Morgan Arcade -->
+    <string name="morgan_three_name">Hawkes Essentials</string>
+    <string name="morgan_three_description">Bespoke Outfitters prides itself on its bespoke tailoring, men\'s shoes, and accessories.</string>
+
+    <!-- Shop title and description for block four in Morgan Arcade -->
+    <string name="morgan_four_name">Jon-Ian Ltd</string>
+    <string name="morgan_four_description">British and European designer shoes, bags, coats and accessories.</string>
+
+    <!-- Shop title and description for block five in Morgan Arcade -->
+    <string name="morgan_five_name">Route One</string>
+    <string name="morgan_five_description">Retailer selling branded streetwear and sneakers, plus skate gear; some have snowboarding equipment.</string>
+
+    <!-- Category name for Duke Street Arcade [CHAR LIMIT=20] -->
+    <string name="category_duke">Duke Street Arcade</string>
+
+    <!-- Shop title and description for block one in Duke Street Arcade -->
+    <string name="duke_one_name">Perfection Bridal Cardiff</string>
+    <string name="duke_one_description">A dedicated wedding specialist with a team of professional bridal consultants.</string>
+
+    <!-- Shop title and description for block two in Duke Street Arcade -->
+    <string name="duke_two_name">Garlands</string>
+    <string name="duke_two_description">Arty independent coffee shop/cafe serving traditional breakfasts and extravagant cakes.</string>
+
+    <!-- Shop title and description for block three in Duke Street Arcade -->
+    <string name="duke_three_name">Hobos Vintage</string>
+    <string name="duke_three_description">Colourful secondhand store selling retro fashion items and accessories from 1950s to the present.</string>
+
+    <!-- Shop title and description for block four in Duke Street Arcade -->
+    <string name="duke_four_name">Timeless Elegance Bridal</string>
+    <string name="duke_four_description">Designer wedding and formalwear shop stocking bridalwear, bridesmaid and prom dresses for sale.</string>
+
+    <!-- Shop title and description for block five in Duke Street Arcade -->
+    <string name="duke_five_name">Mountain Warehouse</string>
+    <string name="duke_five_description">Specialist chain retailer selling clothing, shoes and equipment for outdoor and sporting activities.</string>
+
+    <!-- Category name for Castle Arcade [CHAR LIMIT=20] -->
+    <string name="category_castle">Castle Arcade</string>
+
+    <!-- Shop title and description for block one in Castle Arcade -->
+    <string name="castle_one_name">Science Cream</string>
+    <string name="castle_one_description">A liquid nitrogen, artisan ice cream parlour.</string>
+
+    <!-- Shop title and description for block two in Castle Arcade -->
+    <string name="castle_two_name">Face</string>
+    <string name="castle_two_description">Winners of the 2015 Top Customer Awards, with WhatClinic and Beauty Award Finalists in London Beauty.</string>
+
+    <!-- Shop title and description for block three in Castle Arcade -->
+    <string name="castle_three_name">Crystals</string>
+    <string name="castle_three_description">A specialist supplier of fossils, minerals and jewellery made from gemstones and crystals.</string>
+
+    <!-- Shop title and description for block four in Castle Arcade -->
+    <string name="castle_four_name">Troutmark Books</string>
+    <string name="castle_four_description">A specialist provider of second hand books.</string>
+
+    <!-- Shop title and description for block five in Castle Arcade -->
+    <string name="castle_five_name">Home byKirsty</string>
+    <string name="castle_five_description">Cardiff\'s newest homeware, lighting and gift shop.</string>
+</resources>
