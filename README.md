@@ -1,5 +1,5 @@
 # Cardiff Arcades
-A simple multi-screen app that lists the different arcades in Cardiff as well as the shops to be found in them. This was created for the "Multi-Screen Apps" module of Udacity's "Android Basics Nanodegree by Google".
+A simple multi-screen app that lists the different arcades in Cardiff as well as the shops to be found in them.
 
 This app was created for the **Multi-Screen Apps** module of Udacity's **Android Basics Nanodegree by Google**. 
 
